@@ -4,7 +4,7 @@
 
 I'm an aspiring software engineer focused primarily on **low-level programming** and **application development**.
 
-Beyond systems programming, I enjoy designing maintainable software—from UI architecture to API design—and shipping products people actually use.
+Beyond systems programming, I enjoy designing maintainable software, from UI architecture to API design.
 
 ---
 
