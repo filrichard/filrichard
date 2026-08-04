@@ -1,12 +1,4 @@
 # Filip Richardson
-
-**Software Engineer • Computer Science Student**
-
-Aspiring software developer
-
-📍 Brno, Czech Republic  
-💼 Available for full-time & part-time opportunities
-
 ---
 
 ## About
@@ -14,13 +6,6 @@ Aspiring software developer
 I'm an aspiring software engineer focused primarily on **low-level programming** and **application development**.
 
 Beyond systems programming, I enjoy designing maintainable software—from UI architecture to API design—and shipping products people actually use.
-
-### Currently
-
-- 🌱 Learning **Rust**
-- 🎮 Exploring **OpenGL** and graphics programming
-- ⚙️ Building systems software in **C/C++**
-- 🚀 Looking for software engineering opportunities
 
 ---
 
@@ -73,25 +58,24 @@ Designed for **macOS** with planned **Linux** support.
 
 ---
 
-### ⚙️ cpp-matching-engine
+### ⚡ cpp-matching-engine
 
-A custom matching engine built in modern C++ as a learning project.
+A high-performance **limit order matching engine** implemented in modern C++. Built to explore low-latency systems design, efficient data structures, and order book mechanics commonly used in financial exchanges.
+
+**Highlights**
+
+* Modern C++ (C++23)
+* Price-time priority (FIFO) matching
+* Efficient in-memory order book
+* Focus on performance, clean architecture, and maintainability
 
 **Tech**
-- C++
-- CMake
-- Open Source
 
-- > Currently under active development.
+* C++23
+* CMake
+* Open Source
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=filrichard&show_icons=true&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filrichard&layout=compact&hide_border=true"/>
-</p>
+> Currently under active development
 
 ---
 
