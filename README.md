@@ -1,5 +1,4 @@
 # Filip Richardson
----
 
 ## About
 
