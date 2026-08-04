@@ -30,20 +30,6 @@ Beyond systems programming, I enjoy designing maintainable software, from UI arc
 
 ## Selected Projects
 
-### 🎭 NEETICKÉ DIVADLO
-
-A full-stack theatre ticketing platform developed by a team of five.
-
-**Highlights**
-- Real-time graphical seat selection
-- Complete authentication system
-- Custom component library
-- Next.js + TypeScript + PostgreSQL
-
-> Closed-source project — further details available upon request.
-
----
-
 ### ⚙️ WhyTho
 
 A process investigation tool that explains *why* a process is running by analyzing process ancestry and execution context.
@@ -75,6 +61,20 @@ A high-performance **limit order matching engine** implemented in modern C++. Bu
 * Open Source
 
 > Currently under active development
+
+---
+
+### 🎭 NEETICKÉ DIVADLO
+
+A full-stack theatre ticketing platform developed by a team of five.
+
+**Highlights**
+- Real-time graphical seat selection
+- Complete authentication system
+- Custom component library
+- Next.js + TypeScript + PostgreSQL
+
+> Closed-source project — further details available upon request.
 
 ---
 
